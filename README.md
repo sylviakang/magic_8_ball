@@ -1,6 +1,6 @@
 # magic_8_ball
 
-A new Flutter application.
+A new Flutter project.
 
 ## Getting Started
 
